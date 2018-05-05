@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "C:/Users/igor/Projects/ex1/MROM_TB_isim_beh.exe" -prj "C:/Users/igor/Projects/ex1/MROM_TB_beh.prj" "work.MROM_TB" 
+-intstyle "ise" -incremental -o "C:/Users/igor/Projects/ex1/MRAM_TB_isim_beh.exe" -prj "C:/Users/igor/Projects/ex1/MRAM_TB_beh.prj" "work.MRAM_TB" 
